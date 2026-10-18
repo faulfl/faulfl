@@ -28,6 +28,16 @@ I’m a Computer Science student who enjoys building reliable backend systems, w
   <img src="https://skillicons.dev/icons?i=python,go,js,ts,nodejs,fastapi,postgres,docker,redis,git,html,react,figma" alt="Tech stack" />
 </p>
 
+## Contribution Graph
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/faulfl/faulfl/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
 ---
 
 ## GitHub Stats
