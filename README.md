@@ -31,11 +31,7 @@ I’m a Computer Science student who enjoys building reliable backend systems, w
 ## Contribution Graph
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/faulfl/faulfl/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/faulfl/faulfl/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </p>
 
 ---
