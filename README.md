@@ -1,5 +1,5 @@
 <!-- Retro monochrome profile for faulfl -->
-![profile-art](https://raw.githubusercontent.com/faulfl/faulfl/main/assets/profile-art.jpg)
+![profile-art](https://raw.githubusercontent.com/faulfl/faulfl/main/assets/anjay1.jpg)
 
 ![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=1000&color=F5F5F5&background=000000&center=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Faul;Computer+Science+Student;Backend+Engineer;Building+meaningful+software)
 
