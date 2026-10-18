@@ -1,6 +1,7 @@
 <!-- Retro monochrome profile for faulfl -->
 ![profile-art](https://raw.githubusercontent.com/faulfl/faulfl/main/assets/profile-art.jpg)
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=1000&color=F5F5F5&background=000000&center=true&vCenter=true&repeat=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Faulfl;Computer+Science+Student;Backend+Engineer;Building+meaningful+software)
+
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2600&pause=1000&color=F5F5F5&background=000000&center=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Faulfl;Computer+Science+Student;Backend+Engineer;Building+meaningful+software)
 
 <p align="center">
   <img alt="Backend" src="https://img.shields.io/badge/Backend-Engineer-000000?style=for-the-badge&logo=appveyor&logoColor=white" />
@@ -24,7 +25,7 @@ I’m a Computer Science student who enjoys building reliable backend systems, w
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,js,ts,nodejs,fastapi,postgres,docker,redis,git" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,go,js,ts,nodejs,fastapi,postgres,docker,redis,git,html,react,figma" alt="Tech stack" />
 </p>
 
 ---
