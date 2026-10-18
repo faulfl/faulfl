@@ -1,6 +1,6 @@
 <!-- Retro monochrome profile for faulfl -->
 
-![profile-art](https://raw.githubusercontent.com/faulfl/faulfl/main/assets/profile-art.svg)
+![profile-art](https://raw.githubusercontent.com/faulfl/faulfl/main/assets/profile-art.jpg)
 
 <h1 align="center">Hi 👋, I'm Faulfl</h1>
 
